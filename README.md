@@ -35,3 +35,6 @@ Helm
 helm create devops-practical 
 
 helm install devops-practical ./devops-practical
+
+
+![CHEESE!](devops-practical.png)
